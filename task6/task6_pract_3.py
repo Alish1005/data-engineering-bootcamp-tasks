@@ -1,6 +1,4 @@
-import json
 
-import pymongo
 import json
 from pymongo import MongoClient
 
