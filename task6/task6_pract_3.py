@@ -14,7 +14,7 @@ collection=db.Test
 d=list(collection.find())
 with open('output.json','w') as outfile:
      json.dump(d,outfile,default=str, indent=4)
-#Convert from json into mongodb
+#Convert from json into mongo
 with open('output.json') as file:
     file_data = json.load(file)
 #to insert data from json to mongo
