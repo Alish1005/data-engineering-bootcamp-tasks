@@ -61,7 +61,6 @@ for job_element2 in python_job_elements:
     print(title_element.text.strip())
     print(company_element.text.strip())
     print(location_element.text.strip())
-    print()
 
 for job_element in python_job_elements:
     links = job_element.find_all("a")
