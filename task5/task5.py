@@ -1,6 +1,6 @@
 import datetime
 class Post:
-    all=[]
+    all=[];
     def __init__(self,title:str,author:str,image:str,section:str,keywords:[],category:str,type:str,description:str,summary:str,content:str,location:str,source:str):
 
         assert title!=None,"You must enter a title"
