@@ -17,7 +17,7 @@ with open('output.json','w') as outfile:
 #Convert from json into mongo
 with open('output.json') as file:
     file_data = json.load(file)
-#to insert data from json to mongo
+#to insert data from json to mongodb
 #collection.insert_one(file_data)
 #collection.insert_many(file_data)
 print(file_data)
