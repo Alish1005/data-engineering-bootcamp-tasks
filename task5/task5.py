@@ -129,46 +129,7 @@ class Post:
 
 
 post1=Post("Hello","Ali",None,"trip",['trip','vacation','like'],"all",'post',"this is my first post",None,None,"lobanon",None)
-post2 = Post(
-    title="10 Best Tourist Attractions in Paris",
-    author="Emma Thompson",
-    image="paris-tower.jpg",
-    section="Travel",
-    keywords=["Travel", "Tourism", "Paris"],
-    category="Destinations",
-    type="Listicle",
-    description="Explore the top tourist attractions in the beautiful city of Paris.",
-    summary="Discover the must-visit places that showcase the charm and culture of Paris.",
-    content="Paris, often referred to as the 'City of Love'...",
-    location="Paris, France",
-    source="https://www.example.com/article/paris-attractions"
-)
-post3=Post(
-        title="Healthy Breakfast Ideas",
-        author="Alice Johnson",
-        image="breakfast.jpg",
-        section="Food",
-        keywords=["Food", "Health", "Recipes"],
-        category="Cooking",
-        type="Article",
-        description="Start your day with these nutritious breakfast options.",
-        summary="Explore a variety of healthy and delicious breakfast recipes.",
-        content="A nutritious breakfast is essential for...",
-        location=None,
-        source="https://www.example.com/article/healthy-breakfast"
-    )
-post4=Post(
-        title="The Benefits of Yoga",
-        author="Michael Smith",
-        image="yoga.jpg",
-        section="Health",
-        keywords=["Health", "Fitness", "Yoga"],
-        category="Wellness",
-        type="Guide",
-        description="Discover the physical and mental benefits of practicing yoga.",
-        summary="Learn how yoga can improve flexibility, strength, and relaxation.",
-        content="Yoga is an ancient practice that...",
-        location=None,
-        source="https://www.example.com/article/benefits-of-yoga"
-    )
+post2 = Post(title="10 Best Tourist Attractions in Paris",author="Emma Thompson",image="paris-tower.jpg",section="Travel",keywords=["Travel", "Tourism", "Paris"],category="Destinations",type="Listicle",description="Explore the top tourist attractions in the beautiful city of Paris.",summary="Discover the must-visit places that showcase the charm and culture of Paris.",content="Paris, often referred to as the 'City of Love'...",location="Paris, France",source="https://www.example.com/article/paris-attractions")
+post3=Post(title="Healthy Breakfast Ideas",author="Alice Johnson",image="breakfast.jpg",section="Food",keywords=["Food", "Health", "Recipes"],category="Cooking",type="Article",description="Start your day with these nutritious breakfast options.",summary="Explore a variety of healthy and delicious breakfast recipes.",content="A nutritious breakfast is essential for...",location=None,source="https://www.example.com/article/healthy-breakfast")
+post4=Post(title="The Benefits of Yoga",author="Michael Smith",image="yoga.jpg",section="Health",keywords=["Health", "Fitness", "Yoga"],category="Wellness",type="Guide",description="Discover the physical and mental benefits of practicing yoga.",summary="Learn how yoga can improve flexibility, strength, and relaxation.",content="Yoga is an ancient practice that...",location=None,source="https://www.example.com/article/benefits-of-yoga")
 print(Post.all.__repr__())
