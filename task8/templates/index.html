@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block head %}
+ <title>ABC</title>
+{% endblock %}
+
+{% block body %}
+    <h1>Temp</h1>
+<h3>{{count}}</h3>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>id</th>
+        <th>Pregnancies</th>
+        <th>Glucose</th>
+        <th>Blood Pressure</th>
+        <th>Skin Thickness</th>
+        <th>Insulin</th>
+        <th>BMI</th>
+        <th>Diabetes Pedigree Function</th>
+        <th>Age</th>
+        <th>Outcome</th>
+        <th>Actions</th>
+    </tr>
+    {% for d in data %}
+    <tr>
+        <td>{{d._id}}</td>
+        <td>{{d.Pregnancies}}</td>
+        <td>{{d.Glucose}}</td>
+        <td>{{d.BloodPressure}}</td>
+        <td>{{d.SkinThickness}}</td>
+        <td>{{d.Insulin}}</td>
+        <td>{{d.BMI}}</td>
+        <td>{{d.DiabetesPedigreeFunction}}</td>
+        <td>{{d.Age}}</td>
+        <td>{{d.Outcome}}</td>
+        <td>
+            <a href="/delete/{{d._id}}">Delete</a><br>
+            <a href="">Update</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+<form action="/" method="POST">
+    <label>input</label><input type="text"/>
+</form>
+{% endblock %}
