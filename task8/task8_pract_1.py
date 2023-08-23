@@ -1,5 +1,3 @@
-import time
-
 from bson import ObjectId
 from flask import Flask, render_template, url_for, request, redirect
 import json
@@ -11,7 +9,6 @@ db=client.MyDB
 #https://hevodata.com/learn/json-to-mongodb-python/#Inserting_Data_from_JSON_to_MongoDB_Python
 #Convert from MongoDB into JSON
 collection=db.Test
-
 app = Flask(__name__)
 
 @app.route('/',methods=['POST','GET'])
