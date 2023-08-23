@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<h3>count: {{count}}</h3>
+<div style="width:500px">
+  <canvas id="myChart"></canvas>
+</div>
+<div>
+  {{data}}
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+
+var d=[]
+console.log("1sssssssssssss");
+fetch( 'output.json' )
+      .then((res)=>res.json())
+      .then((data) => {
+      console.log(data)
+      d=data[0]
+      console.log(Object.keys(d))
+const ctx = document.getElementById('myChart');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: Object.keys(d),
+      datasets: [{
+        label: '# of Votes',
+        data: [12, 19, 3, 5, 2, 3,12, 19, 3, 5],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+      });
+
+
+
+</script>
+{% endblock %}
