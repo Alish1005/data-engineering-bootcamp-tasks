@@ -5,6 +5,7 @@ url="mongodb://localhost:27017/"
 client = MongoClient(url)
 db=client.MyDB
 collection=db.Test2
+#print the json file
 with open('output.json') as file:
     file_data = json.load(file)
 
