@@ -2,36 +2,36 @@ from bs4 import BeautifulSoup
 #to get data online
 import requests
 import datetime
-# year=input("enter the year:")
-# month=int(input("enter the month:"))
-# day=int(input("enter the day:"))
-# if month<9:
-#     month=str(month)
-#     month="0"+month
-# else:
-#     month = str(month)
-# if day<9:
-#     day=str(day)
-#     day = "0" + day
-# else:
-#     day = str(day)
-# url = f"https://www.aljazeera.com/sitemap.xml?yyyy={year}&mm={month}&dd={day}"
-# req = requests.get(url) #get the request from the url
-# soup = BeautifulSoup(req.text, "xml") #get the soup of the site
-# links=soup.find_all('url') #seaching
-# for link in links:
-#     print(link.loc.text)
-# print(len(links))
+year=input("enter the year:")
+month=int(input("enter the month:"))
+day=int(input("enter the day:"))
+if month<9:
+    month=str(month)
+    month="0"+month
+else:
+    month = str(month)
+if day<9:
+    day=str(day)
+    day = "0" + day
+else:
+    day = str(day)
+url = f"https://www.aljazeera.com/sitemap.xml?yyyy={year}&mm={month}&dd={day}"
+req = requests.get(url) #get the request from the url
+soup = BeautifulSoup(req.text, "xml") #get the soup of the site
+links=soup.find_all('url') #seaching
+for link in links:
+    print(link.loc.text)
+print(len(links))
 
-# url2=input("enter url:")
-# req2 = requests.get(url2)
-# if str(req2)=="<Response [200]>":
-#     soup = BeautifulSoup(req2.text, "html.parser")
-#     links2=soup.find_all('div',class_='date-simple')
-#     for link in links2:
-#         print(link.span.text)
-# else:
-#     print("wrong url")
+url2=input("enter url:")
+req2 = requests.get(url2)
+if str(req2)=="<Response [200]>":
+    soup = BeautifulSoup(req2.text, "html.parser")
+    links2=soup.find_all('div',class_='date-simple')
+    for link in links2:
+        print(link.span.text)
+else:
+    print("wrong url")
 
 #ex3
 #Show all the links and the count of the last 75 day before
