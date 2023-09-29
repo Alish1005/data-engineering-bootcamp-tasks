@@ -34,7 +34,7 @@ def save_xml_mongo(before_now:int=1):
         before_now_date = date - datetime.timedelta(days=i)
         before_now_date=before_now_date.replace(hour=0,minute=0,second=0,microsecond=0)
         print(before_now_date)
-#Any Error after 75 day turn this to contine
+        #Any Error after 75 day turn this to continue
         if not is_date_need_data(before_now_date):
             break
         xml_url = f"https://www.aljazeera.com/sitemap.xml?yyyy={before_now_date.year}&mm={before_now_date.month:02d}&dd={before_now_date.day:02d}"
@@ -68,14 +68,14 @@ def save_xml_mongo(before_now:int=1):
     for i in News.all:
         if collection.count_documents({'url': i.url})>0:
             print('Done')
-            break
+            continue
         collection.insert_one({
             "url": i.url,
             "type":i.type,
             "topic":i.topic,
             "date":i.publish_date
         });
-
+        print("save")
 def is_date_need_data(data_date:datetime):
     url = f"https://www.aljazeera.com/sitemap.xml?yyyy={data_date.year}&mm={data_date.month:02d}&dd={data_date.day:02d}"
     req = requests.get(url)  # get the request from the url
@@ -107,48 +107,58 @@ def top_topic():
             max=count
             top=i
     return top
-def nbNews_date():
-    l=list()
-    for i in range(75,-1,0):
-        print(i)
+
 def nbOfNews(d:datetime):
     return collection.count_documents({"date":d})
-def nbOfNews(days):
-    n=0
-    for i in range(0,days):
-        d=date-datetime.timedelta(days=i)
-        n=n+collection.count_documents({"date":d})
+def nbOfNews(days:int):
+    d=date-datetime.timedelta(days=days)
+    n=collection.count_documents({"date":{"$gte":d}})
     return n
-#Update to Correct the topic data
-def updates():
-    for i in list(collection.find()):
-        url_news = i['url']
-        print(url_news)
-        req_html = requests.get(url_news)  # get the request from the url
-        soup_html = BeautifulSoup(req_html.text, "html.parser")  # get the soup of the site
-        # print(soup_html.text)
-        sub_title = soup_html.find_all('div', class_="topics")  # seaching
-        for s in sub_title:
-            if len(s.find_all('a')) > 1:
-                continue
-            else:
-                print("None")
-                collection.update_one({"_id":ObjectId(i['_id'])},{"$set":{'topic':'None'}})
-#print(is_date_need_data(datetime.datetime(2023, 8, 23)))
 
-
-
+def topic_array():
+    last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
+    topics=collection.distinct("topic",filter={"date":{"$exists":last_75_documents}})
+    print(topics)
+    print(len(topics))
+    array=[[],[]]
+    for i in topics:
+        array[0].append(i);
+        count=collection.count_documents({"topic":i,"date":{"$exists":last_75_documents}})
+        array[1].append(count)
+    return array
+def type_array():
+    last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
+    types=collection.distinct("type",filter={"date":{"$exists":last_75_documents}})
+    array=[[],[]]
+    for i in types:
+        array[0].append(i);
+        count=collection.count_documents({"type":i,"date":{"$gte":last_75_documents}})
+        array[1].append(count)
+    return array
+def date_array():
+    last_75_documents = collection.distinct("date")[-1]
+    array=[[],[]]
+    for i in range(75,-1,-1):
+        if i<75 :
+            d=(collection.distinct("date")[-1]- datetime.timedelta(days=i));
+            array[0].append(d);
+            count=collection.count_documents({"date":{"$eq":d}})
+            array[1].append(count)
+    return array
 #Routes
 @app.route('/')
 def index():
     data = list(collection.find())
-    return render_template("main.html",data=data,news_number=nbOfNews(75),top_type=top_type(),top_topic=top_topic())
-
+    return render_template("main.html",top_topic=top_topic(),top_type=top_type(),nb=nbOfNews(75),arr_topic=topic_array(),arr_type=type_array(),arr_date=date_array())
+@app.route('/a')
+def a():
+    data = list(collection.find())
+    return data
 @app.route('/data')
 def data():
     with open('output.json') as file:
         file_data = json.load(file)
     return file_data
-save_xml_mongo(75);
+
 if __name__ == '__main__':
     app.run(debug=True)
