@@ -194,6 +194,7 @@ last_75_documents = collection.distinct("date")[-1]
 
 @app.route('/')
 def index():
+    save_xml_mongo(75);
     data = list(collection.find())
     return render_template("main.html",data=data,news_number=nbOfNews(75),top_type=top_type(),top_topic=top_topic())
 @app.route('/vendor/<path:filename>')

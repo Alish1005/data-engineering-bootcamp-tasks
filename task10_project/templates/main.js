@@ -15,11 +15,11 @@
         dates_num.push(t.length)
        });
        console.log(dates_num)
-      console.log(dates_num)
+
       const types=[...new Set(data.filter(news => dates.includes(news.date.split(' ')[0])).map(news => news.type))];
       const types_num=[];
       types.forEach(i => {
-        const t=[...new Set(data.filter(news => news.type==i))];
+        const t=[...new Set(data.filter(news => news.type==i && dates.includes(news.date.split(' ')[0]))];
         types_num.push(t.length)
        });
       console.log(types);

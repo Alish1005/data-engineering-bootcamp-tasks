@@ -20,7 +20,8 @@ collection=db.aljazeera
 class MyFlaskApp(Flask):
     def __init__(self, *args, **kwargs):
         #we use json to send the mongo data to the js to put it in the charts since js understand json
-        d = list(collection.find())
+        last_75_documents = collection.distinct("date")[-1] - datetime.timedelta(days=75)
+        d = list(collection.find(filter={"date": {"$exists": last_75_documents}}))
         super().__init__(*args, **kwargs)
         with open('output.json', 'w') as outfile:
             json.dump(d, outfile, default=str, indent=4)
@@ -88,21 +89,24 @@ def is_date_need_data(data_date:datetime):
     else:
         return False
 def top_type():
+    last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
     types=collection.distinct("type")
     top="None"
     max=0;
     for i in types:
-        count=collection.count_documents({"type":i})
+        count=collection.count_documents({"$and":[{"type":i} ,{"date":{"$gte":last_75_documents}}]})
         if max<count:
             max=count
             top=i
     return top
 def top_topic():
+    last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
     types=collection.distinct("topic")
     top="1"
     max=0;
     for i in types:
-        count=collection.count_documents({"topic":i})
+        count=collection.count_documents({"$and":[{"topic":i} ,{"date":{"$gte":last_75_documents}}]})
+        print(i," : ",count);
         if max<count  and i!='None':
             max=count
             top=i
@@ -117,18 +121,18 @@ def nbOfNews(days:int):
 
 def topic_array():
     last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
-    topics=collection.distinct("topic",filter={"date":{"$exists":last_75_documents}})
+    topics=collection.distinct("topic",filter={"date":{"gte":last_75_documents}})
     print(topics)
     print(len(topics))
     array=[[],[]]
     for i in topics:
         array[0].append(i);
-        count=collection.count_documents({"topic":i,"date":{"$exists":last_75_documents}})
+        count=collection.count_documents({"topic":i,"date":{"gte":last_75_documents}})
         array[1].append(count)
     return array
 def type_array():
     last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
-    types=collection.distinct("type",filter={"date":{"$exists":last_75_documents}})
+    types=collection.distinct("type",filter={"date":{"gte":last_75_documents}})
     array=[[],[]]
     for i in types:
         array[0].append(i);
@@ -152,8 +156,11 @@ def index():
     return render_template("main.html",top_topic=top_topic(),top_type=top_type(),nb=nbOfNews(75),arr_topic=topic_array(),arr_type=type_array(),arr_date=date_array())
 @app.route('/a')
 def a():
-    data = list(collection.find())
-    return data
+    with open("a.json", "w") as json_file:
+        json.dump(list(collection.find()), json_file, default=str, indent=4)
+    with open('a.json') as file:
+        file_data = json.load(file)
+    return file_data
 @app.route('/data')
 def data():
     with open('output.json') as file:
