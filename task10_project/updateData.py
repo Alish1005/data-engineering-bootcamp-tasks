@@ -1,4 +1,4 @@
-from bson import ObjectId
+
 from bs4 import BeautifulSoup
 import requests
 import datetime
@@ -19,7 +19,7 @@ collection=db.aljazeera
 
 def save_xml_mongo(before_now:int=1):
     #print(list(collection.find().sort("date", -1))[0]['date'])
-    for i in range(0,before_now):
+    for i in range(1,before_now):
         before_now_date = date - datetime.timedelta(days=i)
         before_now_date=before_now_date.replace(hour=0,minute=0,second=0,microsecond=0)
         print(before_now_date)
@@ -66,7 +66,6 @@ def save_xml_mongo(before_now:int=1):
         });
         print("save")
 
-
 def is_date_need_data(data_date:datetime):
     url = f"https://www.aljazeera.com/sitemap.xml?yyyy={data_date.year}&mm={data_date.month:02d}&dd={data_date.day:02d}"
     req = requests.get(url)  # get the request from the url
@@ -78,23 +77,4 @@ def is_date_need_data(data_date:datetime):
         return True
     else:
         return False
-
-#Update to Correct the topic data
-def updates():
-    for i in list(collection.find()):
-        url_news = i['url']
-        print(url_news)
-        req_html = requests.get(url_news)  # get the request from the url
-        soup_html = BeautifulSoup(req_html.text, "html.parser")  # get the soup of the site
-        # print(soup_html.text)
-        sub_title = soup_html.find_all('div', class_="topics")  # seaching
-        for s in sub_title:
-            if len(s.find_all('a')) > 1:
-                continue
-            else:
-                print("None")
-                collection.update_one({"_id":ObjectId(i['_id'])},{"$set":{'topic':'None'}})
-#print(is_date_need_data(datetime.datetime(2023, 8, 23)))
-
-
-save_xml_mongo(2);
+save_xml_mongo(75);
