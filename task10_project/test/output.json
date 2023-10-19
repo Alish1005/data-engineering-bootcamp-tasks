@@ -40262,5 +40262,1440 @@
         "type": "news",
         "topic": "Kim Jong Un",
         "date": "2023-09-27 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f5b",
+        "url": "https://www.aljazeera.com/news/2023/10/19/russia-ukraine-war-list-of-key-events-day-603",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f5c",
+        "url": "https://www.aljazeera.com/features/2023/10/19/gazas-only-cancer-hospital-could-shut-down-amid-israels-war-and-siege",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f5d",
+        "url": "https://www.aljazeera.com/news/2023/10/19/nicaragua-releases-12-catholic-priests-and-sends-them-to-rome",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f5e",
+        "url": "https://www.aljazeera.com/news/2023/10/19/cant-stay-silent-any-more-rage-in-lebanon-over-war-on-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f5f",
+        "url": "https://www.aljazeera.com/news/2023/10/19/liverpool-star-mohamed-salah-calls-for-end-to-massacres-in-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f60",
+        "url": "https://www.aljazeera.com/news/2023/10/19/israel-police-boss-threatens-to-send-anti-war-protesters-to-gaza-on-buses",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f61",
+        "url": "https://www.aljazeera.com/sports/liveblog/2023/10/19/live-india-vs-bangladesh-icc-cricket-world-cup-2023",
+        "type": "sports",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f62",
+        "url": "https://www.aljazeera.com/sports/2023/10/19/brazils-neymar-to-have-surgery-after-acl-and-meniscus-injury",
+        "type": "sports",
+        "topic": "Football",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f63",
+        "url": "https://www.aljazeera.com/opinions/2023/10/19/joe-biden-owns-this",
+        "type": "opinions",
+        "topic": "Joe Biden",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f64",
+        "url": "https://www.aljazeera.com/news/2023/10/19/jewish-activists-arrested-at-us-congress-sit-in-calling-for-gaza-ceasefire",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f65",
+        "url": "https://www.aljazeera.com/news/2023/10/19/israel-hamas-war-list-of-key-events-day-13",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f66",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/19/this-is-genocide-not-war-gaza-destruction-sparks-protests-across-world",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f67",
+        "url": "https://www.aljazeera.com/features/2023/10/19/a-romance-a-birthplace-destroyed-memories-of-gazas-bombed-ahli-hospital",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f68",
+        "url": "https://www.aljazeera.com/news/2023/10/19/free-world-where-are-you-gaza-hospital-chief-pleads-amid-israel-attacks",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f69",
+        "url": "https://www.aljazeera.com/gallery/2023/10/19/khan-younis-homes-levelled-by-deadly-israeli-bombardment",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6a",
+        "url": "https://www.aljazeera.com/opinions/2023/10/19/hamas-killed-my-parents-but-israels-war-is-not-the-answer",
+        "type": "opinions",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6b",
+        "url": "https://www.aljazeera.com/news/2023/10/19/state-department-official-resigns-over-bidens-handling-of-israel-gaza-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6c",
+        "url": "https://www.aljazeera.com/news/2023/10/19/israels-war-against-gazas-children-explained",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6d",
+        "url": "https://www.aljazeera.com/news/2023/10/19/russias-lavrov-warns-israel-gaza-war-could-spark-regional-crisis",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6e",
+        "url": "https://www.aljazeera.com/news/2023/10/19/british-pm-sunak-in-israel-whats-on-his-agenda",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f6f",
+        "url": "https://www.aljazeera.com/sports/2023/10/19/pakistan-cricket-team-icc-world-cup-2023",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f70",
+        "url": "https://www.aljazeera.com/news/2023/10/19/eus-palestine-envoy-bloc-lacks-sympathy-for-victims-of-israels-bombing",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f71",
+        "url": "https://www.aljazeera.com/news/2023/10/19/how-significant-is-lifting-of-un-curbs-on-irans-missile-programme",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f72",
+        "url": "https://www.aljazeera.com/news/2023/10/18/what-do-we-know-about-the-strike-on-the-hospital-in-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f73",
+        "url": "https://www.aljazeera.com/news/2023/10/18/russia-ukraine-war-list-of-key-events-day-602",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f74",
+        "url": "https://www.aljazeera.com/news/2023/10/18/american-trapped-in-gaza-says-he-feels-like-second-class-citizen",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f75",
+        "url": "https://www.aljazeera.com/news/2023/10/18/what-can-bidens-israel-visit-accomplish-after-gaza-hospital-bombing",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f76",
+        "url": "https://www.aljazeera.com/podcasts/2023/10/18/the-take-when-it-comes-to-gaza-when-is-it-a-war-crime",
+        "type": "podcasts",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f77",
+        "url": "https://www.aljazeera.com/news/2023/10/18/musk-to-charge-new-x-users-1-a-year-for-basic-account",
+        "type": "news",
+        "topic": "Social Media",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f78",
+        "url": "https://www.aljazeera.com/news/2023/10/18/us-accuses-chinas-air-force-of-risky-behaviour-in-skies-above-pacific",
+        "type": "news",
+        "topic": "Military",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f79",
+        "url": "https://www.aljazeera.com/news/2023/10/18/why-has-jordan-cancelled-biden-visit-after-israel-bombing-of-gaza-hospital",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7a",
+        "url": "https://www.aljazeera.com/news/2023/10/18/israel-hamas-war-list-of-key-events-day-12",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7b",
+        "url": "https://www.aljazeera.com/news/2023/10/18/un-chief-guterres-condemns-collective-punishment-of-palestinians",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7c",
+        "url": "https://www.aljazeera.com/news/2023/10/18/xi-hails-deepening-trust-between-china-and-russia-as-he-meets-putin",
+        "type": "news",
+        "topic": "Conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7d",
+        "url": "https://www.aljazeera.com/news/2023/10/18/analysis-will-gaza-be-israels-stalingrad",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7e",
+        "url": "https://www.aljazeera.com/news/2023/10/18/abbas-condemns-israel-for-hideous-war-massacre-after-gaza-hospital-attack",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f7f",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/gaza-health-ministry-says-hundreds-killed-in-strike-on-gaza-hospital",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f80",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/gaza-doctor-tells-world-leaders-to-show-some-morals-after-hospital-bombings",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f81",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/gaza-officials-blame-israel-for-deadly-strike-on-hospital",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f82",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/un-palestinian-ambassador-denounces-israel-for-gaza-hospital-attack",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f83",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/un-chief-demands-immediate-gaza-ceasefire",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f84",
+        "url": "https://www.aljazeera.com/news/2023/10/18/russias-lavrov-to-visit-north-korea-as-moscow-deepens-ties-in-asia",
+        "type": "news",
+        "topic": "Sergey Lavrov",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f85",
+        "url": "https://www.aljazeera.com/news/2023/10/18/biden-arrives-in-tel-aviv-backs-israels-narrative-on-gaza-hospital-attack",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f86",
+        "url": "https://www.aljazeera.com/features/2023/10/18/very-thin-budget-forex-shortage-triggers-cost-of-living-crisis-in-malawi",
+        "type": "features",
+        "topic": "Business and Economy",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f87",
+        "url": "https://www.aljazeera.com/sports/2023/10/18/lionel-messi-argentina-win-neymar-injury-brazil-world-cup-qualifiers",
+        "type": "sports",
+        "topic": "Football",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f88",
+        "url": "https://www.aljazeera.com/news/2023/10/18/what-has-been-us-president-bidens-stance-on-israel-gaza-war-so-far",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f89",
+        "url": "https://www.aljazeera.com/sports/2023/10/18/muslim-footballers-european-clubs-israel-gaza-war",
+        "type": "sports",
+        "topic": "Football",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8a",
+        "url": "https://www.aljazeera.com/news/2023/10/18/chinas-xi-urges-west-against-decoupling-at-belt-and-road-forum",
+        "type": "news",
+        "topic": "Xi Jinping",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8b",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/biden-visits-israel-and-reaffirms-support-for-war-in-gaza",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8c",
+        "url": "https://www.aljazeera.com/news/2023/10/18/iran-calls-on-oic-members-to-sanction-israel-following-hospital-attack",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8d",
+        "url": "https://www.aljazeera.com/news/2023/10/18/alain-gresh-macrons-party-has-a-strong-anti-palestinian-position",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8e",
+        "url": "https://www.aljazeera.com/news/2023/10/18/antisemitism-has-no-place-germanys-scholz-condemns-synagogue-attack",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f8f",
+        "url": "https://www.aljazeera.com/news/2023/10/18/where-in-gaza-is-al-ahli-arab-hospital-the-site-hit-amid-war-with-israel",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f90",
+        "url": "https://www.aljazeera.com/news/2023/10/18/palestinian-authority-cracks-down-on-protests-over-israel-gaza-attacks",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f91",
+        "url": "https://www.aljazeera.com/opinions/2023/10/18/rethinking-palestine-israel-hegemonic-security-vs-true-justice",
+        "type": "opinions",
+        "topic": "None",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f92",
+        "url": "https://www.aljazeera.com/gallery/2023/10/18/gazas-ahli-arab-hospital-after-the-attack-that-killed-at-least-500-people",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f93",
+        "url": "https://www.aljazeera.com/news/2023/10/18/second-day-of-protests-across-the-middle-east-after-gaza-hospital-strike",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f94",
+        "url": "https://www.aljazeera.com/features/2023/10/18/suffering-and-smiling-festivalgoers-decry-state-of-affairs-in-nigeria",
+        "type": "features",
+        "topic": "Government",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f95",
+        "url": "https://www.aljazeera.com/sports/2023/10/18/india-vs-bangladesh-icc-cricket-world-cup-2023-preview",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f96",
+        "url": "https://www.aljazeera.com/news/2023/10/18/israel-gaza-what-international-law-says-about-the-deadly-hospital-strike",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f97",
+        "url": "https://www.aljazeera.com/features/2023/10/18/no-work-back-home-lebanons-foreign-domestic-workers-fear-israel-war",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f98",
+        "url": "https://www.aljazeera.com/news/2023/10/18/what-is-israels-narrative-on-the-gaza-hospital-explosion",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f99",
+        "url": "https://www.aljazeera.com/features/2023/10/18/could-a-warning-by-the-icc-chief-prosecutor-deter-war-crimes-in-gaza",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9a",
+        "url": "https://www.aljazeera.com/news/2023/10/18/israel-says-it-wont-block-humanitarian-aid-entering-gaza-from-egypt",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9b",
+        "url": "https://www.aljazeera.com/news/2023/10/18/russia-attempts-to-seize-military-diplomatic-initiative-against-ukraine",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9c",
+        "url": "https://www.aljazeera.com/news/2023/10/18/us-house-chaos-continues-as-jim-jordan-readies-for-second-speaker-bid",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9d",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/18/al-jazeera-reporter-films-journey-back-home-to-gaza-city",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9e",
+        "url": "https://www.aljazeera.com/opinions/2023/10/18/a-letter-to-europe-from-a-palestinian",
+        "type": "opinions",
+        "topic": "None",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39f9f",
+        "url": "https://www.aljazeera.com/opinions/2023/10/18/al-ahli-hospital-bombing-israel-performing-its-usual-post-atrocity-routine",
+        "type": "opinions",
+        "topic": "None",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa0",
+        "url": "https://www.aljazeera.com/program/inside-story/2023/10/18/why-has-the-us-consistently-backed-israel",
+        "type": "program",
+        "topic": "Inside Story",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa1",
+        "url": "https://www.aljazeera.com/sports/2023/10/18/spain-call-up-jenni-hermoso-for-first-time-since-world-cup-kiss-scandal",
+        "type": "sports",
+        "topic": "Football",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa2",
+        "url": "https://www.aljazeera.com/news/2023/10/18/us-vetoes-un-resolution-calling-for-humanitarian-pause-in-israel-hamas-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa3",
+        "url": "https://www.aljazeera.com/news/2023/10/18/jim-jordan-fails-in-second-us-house-speaker-vote",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa4",
+        "url": "https://www.aljazeera.com/news/liveblog/2023/10/18/israel-hamas-war-live-limited-gaza-aid-deal-agreed-between-us-and-egypt",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa5",
+        "url": "https://www.aljazeera.com/news/2023/10/18/military-attack-leaves-myanmars-displaced-civilians-with-no-safe-place",
+        "type": "news",
+        "topic": "Conflict",
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa6",
+        "url": "https://www.aljazeera.com/news/2023/10/17/russia-ukraine-war-list-of-key-events-day-601",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa7",
+        "url": "https://www.aljazeera.com/news/2023/10/17/two-swedes-killed-in-brussels-in-possible-terrorist-shooting",
+        "type": "news",
+        "topic": "Crime",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa8",
+        "url": "https://www.aljazeera.com/news/2023/10/17/canada-says-chinese-jets-being-reckless-near-north-korea",
+        "type": "news",
+        "topic": "None",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fa9",
+        "url": "https://www.aljazeera.com/news/2023/10/17/russias-vladimir-putin-visits-dear-friend-xi-jinping-in-china",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39faa",
+        "url": "https://www.aljazeera.com/news/2023/10/17/every-second-in-danger-gaza-journalists-race-against-deadlines-and-death",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fab",
+        "url": "https://www.aljazeera.com/news/2023/10/17/putin-to-meet-xi-in-beijing-five-things-to-know",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fac",
+        "url": "https://www.aljazeera.com/news/2023/10/17/indias-top-court-rules-against-allowing-same-sex-marriage",
+        "type": "news",
+        "topic": "LGBTQ",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fad",
+        "url": "https://www.aljazeera.com/news/2023/10/17/a-man-and-his-donkey-making-sure-gazas-people-dont-go-thirsty",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fae",
+        "url": "https://www.aljazeera.com/news/2023/10/17/iran-warns-of-preemptive-action-against-israel-amid-gaza-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39faf",
+        "url": "https://www.aljazeera.com/news/2023/10/17/beyond-hezbollah-the-history-of-tensions-between-lebanon-and-israel",
+        "type": "news",
+        "topic": "Conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb0",
+        "url": "https://www.aljazeera.com/news/2023/10/17/biden-to-visit-israel-as-gaza-faces-humanitarian-catastrophe",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb1",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/bread-and-water-running-low-as-more-palestinians-flee-to-south-gaza",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb2",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/israeli-minister-losing-land-is-price-arabs",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb3",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/palestinian-americans-mourn-6-year-old-boy-killed-in-suspected-hate-crime",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb4",
+        "url": "https://www.aljazeera.com/news/2023/10/17/israel-bombs-homes-in-southern-gaza-kills-more-than-70-people",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb5",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/palestinian-doctor-breaks-down-when-he-sees-family-at-hospital-2",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb6",
+        "url": "https://www.aljazeera.com/news/2023/10/17/gaza-faces-humanitarian-catastrophe-as-israel-evacuates-north",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb7",
+        "url": "https://www.aljazeera.com/features/longform/2023/10/17/a-hungarian-farmers-gamble-on-regenerative-farming",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb8",
+        "url": "https://www.aljazeera.com/features/2023/10/17/grief-in-zimbabwe-over-missing-miners-as-government-halts-rescue-mission",
+        "type": "features",
+        "topic": "Mining",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fb9",
+        "url": "https://www.aljazeera.com/news/2023/10/17/israel-hamas-war-list-of-key-events-day-11",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fba",
+        "url": "https://www.aljazeera.com/sports/2023/10/17/algeria-to-host-palestine-football-matches",
+        "type": "sports",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fbb",
+        "url": "https://www.aljazeera.com/news/2023/10/17/eu-leaders-to-meet-as-bloc-struggles-for-united-message-on-israel-hamas-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fbc",
+        "url": "https://www.aljazeera.com/news/2023/10/17/no-painkillers-water-food-shortages-what-to-know-about-gaza-situation",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fbd",
+        "url": "https://www.aljazeera.com/gallery/2023/10/17/bodies-all-around-as-israeli-air-raids-hit-homes-in-khan-younis-and-rafah",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fbe",
+        "url": "https://www.aljazeera.com/features/2023/10/17/unpacking-indian-supreme-courts-verdict-on-same-sex-marriage",
+        "type": "features",
+        "topic": "Human Rights",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fbf",
+        "url": "https://www.aljazeera.com/opinions/2023/10/17/mental-health-must-be-upheld-as-a-universal-human-right",
+        "type": "opinions",
+        "topic": "None",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc0",
+        "url": "https://www.aljazeera.com/news/longform/2023/10/17/mapping-the-israel-palestine-war-major-events-on-the-ground",
+        "type": "news",
+        "topic": "None",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc1",
+        "url": "https://www.aljazeera.com/news/2023/10/17/israel-could-be-in-breach-of-global-law-with-gaza-relocation-order-un",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc2",
+        "url": "https://www.aljazeera.com/news/2023/10/17/russias-putin-hungarys-orban-reaffirm-bond-ahead-of-beijing-summit",
+        "type": "news",
+        "topic": "Vladimir Putin",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc3",
+        "url": "https://www.aljazeera.com/sports/2023/10/17/egyptian-swimmer-abdelrehman-palestinian-solidarity-threats",
+        "type": "sports",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc4",
+        "url": "https://www.aljazeera.com/news/2023/10/17/sweden-warns-country-facing-biggest-threat-after-brussels-attack",
+        "type": "news",
+        "topic": "Crime",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc5",
+        "url": "https://www.aljazeera.com/podcasts/2023/10/17/the-take-the-other-blockade-as-gaza-escalates-so-does-the-west-bank",
+        "type": "podcasts",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc6",
+        "url": "https://www.aljazeera.com/sports/2023/10/17/pakistan-beat-cambodia-in-first-ever-football-world-cup-qualifying-win",
+        "type": "sports",
+        "topic": "Football",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc7",
+        "url": "https://www.aljazeera.com/news/2023/10/17/israel-accuses-spain-of-siding-with-hamas-after-genocide-accusation",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc8",
+        "url": "https://www.aljazeera.com/news/2023/10/17/will-israel-actually-allow-much-needed-aid-into-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fc9",
+        "url": "https://www.aljazeera.com/news/2023/10/17/police-detain-climate-activist-greta-thunberg-at-london-protest",
+        "type": "news",
+        "topic": "Climate Crisis",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fca",
+        "url": "https://www.aljazeera.com/news/2023/10/17/ideologically-anti-populist-poland-votes-for-a-new-future",
+        "type": "news",
+        "topic": "None",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fcb",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/man-threatens-to-kill-unicef-worker-for-saying",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fcc",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/mourning-father-in-gaza-farewells-his-deceased-sons",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fcd",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/israeli-forces-bomb-gaza-areas-where-they-told-1m-people-to-go",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fce",
+        "url": "https://www.aljazeera.com/program/newsfeed/2023/10/17/mass-arrests-of-palestinians-in-occupied-west-bank",
+        "type": "program",
+        "topic": "NewsFeed",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fcf",
+        "url": "https://www.aljazeera.com/news/2023/10/17/irans-khamenei-warns-israel-that-bombardment-of-gaza-could-bring-response",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd0",
+        "url": "https://www.aljazeera.com/opinions/2023/10/17/the-mask-is-off-gaza-has-exposed-the-hypocrisy-of-international-law",
+        "type": "opinions",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd1",
+        "url": "https://www.aljazeera.com/news/2023/10/17/tensions-surge-at-us-universities-as-students-rally-over-israel-hamas-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd2",
+        "url": "https://www.aljazeera.com/sports/2023/10/17/netherlands-beat-south-africa-in-shocking-icc-cricket-world-cup-win",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd3",
+        "url": "https://www.aljazeera.com/news/2023/10/17/ukraine-uses-atacms-long-range-missiles-zelenskyy-says",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd4",
+        "url": "https://www.aljazeera.com/news/2023/10/17/even-refugee-camps-arent-safe-from-israeli-bombs-in-gaza",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd5",
+        "url": "https://www.aljazeera.com/news/2023/10/17/gaza-authorities-say-hundreds-killed-in-israeli-air-raid-on-hospital",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd6",
+        "url": "https://www.aljazeera.com/gallery/2023/10/17/photos-an-israeli-air-raid-on-al-ahli-arab-hospital-kills-an-estimated-500",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd7",
+        "url": "https://www.aljazeera.com/news/2023/10/17/world-reacts-as-gaza-officials-say-500-killed-in-israeli-strike-on-hospital",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd8",
+        "url": "https://www.aljazeera.com/news/2023/10/17/surrounded-by-death-gaza-content-creators-fight-to-get-the-truth-out",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fd9",
+        "url": "https://www.aljazeera.com/news/2023/10/17/we-only-wanted-to-leave-one-palestinian-familys-attempt-to-flee-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fda",
+        "url": "https://www.aljazeera.com/news/2023/10/17/pa-forces-fire-tear-gas-at-west-bank-protesters-after-gaza-hospital-strike",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fdb",
+        "url": "https://www.aljazeera.com/news/2023/10/17/jordan-cancels-biden-summit-after-hundreds-killed-in-gaza-hospital-blast",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fdc",
+        "url": "https://www.aljazeera.com/gallery/2023/10/17/photos-protesters-clash-with-palestinian-police-in-west-bank",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fdd",
+        "url": "https://www.aljazeera.com/gallery/2023/10/17/photos-outrage-spreads-across-middle-east-after-attack-on-gaza-hospital",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fde",
+        "url": "https://www.aljazeera.com/news/liveblog/2023/10/17/israel-hamas-war-live-anger-after-israeli-strike-kills-500-in-hospital",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fdf",
+        "url": "https://www.aljazeera.com/news/2023/10/16/russia-ukraine-war-list-of-key-events-day-600",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe0",
+        "url": "https://www.aljazeera.com/news/2023/10/16/new-era-tusk-celebrates-exit-polls-suggesting-opposition-win-in-poland",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe1",
+        "url": "https://www.aljazeera.com/news/2023/10/16/analysis-why-is-so-much-anti-palestinian-disinformation-coming-from-india",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe2",
+        "url": "https://www.aljazeera.com/news/2023/10/16/banana-fortune-heir-claims-victory-in-ecuador-election",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe3",
+        "url": "https://www.aljazeera.com/podcasts/2023/10/16/the-take-facing-total-collapse-gaza-doctors-fight-to-remain-a-lifeline",
+        "type": "podcasts",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe4",
+        "url": "https://www.aljazeera.com/news/2023/10/16/philippines-accuses-china-of-dangerous-manoeuvres-in-south-china-sea",
+        "type": "news",
+        "topic": "South China Sea",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe5",
+        "url": "https://www.aljazeera.com/gallery/2023/10/16/israel-bombs-empty-home-in-gaza-city-harms-people-around",
+        "type": "gallery",
+        "topic": "Gaza",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe6",
+        "url": "https://www.aljazeera.com/features/2023/10/16/desperate-evacuees-return-to-their-homes-in-gaza-city-despite-israeli-order",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe7",
+        "url": "https://www.aljazeera.com/sports/2023/10/16/south-africa-beat-france-29-28-to-reach-rugby-world-cup-semifinals",
+        "type": "sports",
+        "topic": "Rugby",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe8",
+        "url": "https://www.aljazeera.com/news/2023/10/16/egypts-tricky-calculation-as-israels-assault-on-gaza-continues",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fe9",
+        "url": "https://www.aljazeera.com/sports/liveblog/2023/10/16/live-australia-vs-sri-lanka-icc-cricket-world-cup-2023",
+        "type": "sports",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fea",
+        "url": "https://www.aljazeera.com/news/2023/10/16/indonesian-court-rules-on-presidential-candidate-eligibility",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39feb",
+        "url": "https://www.aljazeera.com/news/2023/10/16/israel-hamas-war-list-of-key-events-day-10",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fec",
+        "url": "https://www.aljazeera.com/news/2023/10/16/biden-weighs-israel-visit-after-netanyahu-extends-invite-amid-gaza-war",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fed",
+        "url": "https://www.aljazeera.com/news/2023/10/16/china-prepares-for-belt-and-road-summit-in-shadow-of-israel-gaza-war",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fee",
+        "url": "https://www.aljazeera.com/news/2023/10/16/former-bank-of-china-boss-arrested-on-suspected-bribery-charges",
+        "type": "news",
+        "topic": "Corruption",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fef",
+        "url": "https://www.aljazeera.com/features/2023/10/16/how-palestinians-in-gaza-soothe-their-terrified-children-amid-israeli-raids",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff0",
+        "url": "https://www.aljazeera.com/news/2023/10/16/hamas-warns-of-environmental-crisis-as-1000-bodies-still-under-gaza-rubble",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff1",
+        "url": "https://www.aljazeera.com/sports/2023/10/16/ioc-la-2028-olympics-cricket-flag-football-lacrosse-squash-baseball",
+        "type": "sports",
+        "topic": "Olympics",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff2",
+        "url": "https://www.aljazeera.com/sports/2023/10/16/five-biggest-icc-cricket-world-cup-upsets",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff3",
+        "url": "https://www.aljazeera.com/opinions/2023/10/16/the-united-states-is-back-to-playing-regional-cop-in-the-middle",
+        "type": "opinions",
+        "topic": "Gaza",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff4",
+        "url": "https://www.aljazeera.com/news/2023/10/16/malaysias-anwar-rejects-wests-pressuring-attitude-to-condemn-hamas",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff5",
+        "url": "https://www.aljazeera.com/news/2023/10/16/finnish-nobel-peace-laureate-martti-ahtisaari-dies-at-86",
+        "type": "news",
+        "topic": "Politics",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff6",
+        "url": "https://www.aljazeera.com/program/al-jazeera-close-up/2023/10/16/aje-onl-cu_gazasdeadliestdays-161023",
+        "type": "program",
+        "topic": "Al Jazeera Close Up",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff7",
+        "url": "https://www.aljazeera.com/opinions/2023/10/16/israels-evacuation-order-is-nothing-but-cover-for-ethnic-cleansing",
+        "type": "opinions",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff8",
+        "url": "https://www.aljazeera.com/features/2023/10/16/ten-films-to-watch-about-the-history-of-the-israel-palestine-conflict",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ff9",
+        "url": "https://www.aljazeera.com/opinions/2023/10/16/the-myth-of-israels-most-moral",
+        "type": "opinions",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ffa",
+        "url": "https://www.aljazeera.com/news/2023/10/16/at-least-199-people-being-held-captive-by-hamas-israel-says",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ffb",
+        "url": "https://www.aljazeera.com/sports/2023/10/16/india-pakistan-ahmedabad-crowd-islamophobia-icc-cricket-world-cup",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ffc",
+        "url": "https://www.aljazeera.com/features/2023/10/16/five-films-that-tell-the-human-stories-behind-the-israel-palestine-conflict",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ffd",
+        "url": "https://www.aljazeera.com/news/2023/10/16/why-egypt-gaza-rafah-crossing-vital-for-supplying-aid-amid-israeli-strikes",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39ffe",
+        "url": "https://www.aljazeera.com/program/featured-documentaries/2023/10/16/the-letter-that-led-to-the-founding-of-israel-balfour-seeds-of-discord",
+        "type": "program",
+        "topic": "Featured Documentaries",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e39fff",
+        "url": "https://www.aljazeera.com/news/2023/10/16/world-has-abandoned-afghanistan-says-countrys-last-womens-minister",
+        "type": "news",
+        "topic": "Women",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e3a000",
+        "url": "https://www.aljazeera.com/news/2023/10/16/ukrainian-children-repatriated-from-russia-through-qatari-mediation",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e3a001",
+        "url": "https://www.aljazeera.com/news/2023/10/16/americans-want-us-to-help-get-gaza-civilians-out-of-harms-way-survey",
+        "type": "news",
+        "topic": "Gaza",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e3a002",
+        "url": "https://www.aljazeera.com/news/2023/10/16/can-lebanons-hezbollah-afford-to-go-to-war-with-israel",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e3a003",
+        "url": "https://www.aljazeera.com/news/2023/10/16/war-knows-no-religion-gazas-oldest-church-shelters-muslims-christians",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313264657f048d67e3a004",
+        "url": "https://www.aljazeera.com/news/2023/10/16/israeli-forces-tanks-amass-at-border-with-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a005",
+        "url": "https://www.aljazeera.com/gallery/2023/10/16/history-illustrated-the-war-on-al-aqsa-redux-2",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a006",
+        "url": "https://www.aljazeera.com/news/2023/10/16/humatarian-aid-stuck-at-gaza-border-as-who-warns-of-catastrophe",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a007",
+        "url": "https://www.aljazeera.com/news/2023/10/16/mapping-protests-held-in-solidarity-with-palestine",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a008",
+        "url": "https://www.aljazeera.com/news/2023/10/16/guardian-cartoonists-contract-not-renewed-after-netanyahu-drawing",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a009",
+        "url": "https://www.aljazeera.com/news/2023/10/16/analysis-israels-deadlines-to-gazas-palestinians-have-failed",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00a",
+        "url": "https://www.aljazeera.com/news/2023/10/16/donald-trump-gets-gag-order-in-2020-election-subversion-case",
+        "type": "news",
+        "topic": "Donald Trump",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00b",
+        "url": "https://www.aljazeera.com/news/2023/10/16/un-begins-shipping-aid-for-gaza-to-egypt-amid-uncertainty",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00c",
+        "url": "https://www.aljazeera.com/news/2023/10/16/gazas-dire-humanitarian-crisis-explained",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00d",
+        "url": "https://www.aljazeera.com/news/2023/10/16/israeli-forces-killed-abu-akleh-without-justification-un-inquiry-says",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00e",
+        "url": "https://www.aljazeera.com/program/inside-story/2023/10/16/have-israel-and-hamas-breached-the-laws-of-war-in-gaza",
+        "type": "program",
+        "topic": "Inside Story",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a00f",
+        "url": "https://www.aljazeera.com/news/2023/10/16/funeral-held-in-us-for-six-year-old-boy-killed-in-suspected-hate-crime",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a010",
+        "url": "https://www.aljazeera.com/news/2023/10/16/us-lawmakers-introduce-resolution-urging-immediate-gaza-ceasefire",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a011",
+        "url": "https://www.aljazeera.com/news/liveblog/2023/10/16/israel-hamas-war-live-iran-warns-resistance-front-may-attack",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a012",
+        "url": "https://www.aljazeera.com/news/2023/10/15/in-jerusalems-old-town-israel-soldiers-do-what-they-want-to-palestinians",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a013",
+        "url": "https://www.aljazeera.com/features/2023/10/15/will-we-return-for-my-palestinian-family-history-is-repeating-itself",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a014",
+        "url": "https://www.aljazeera.com/news/2023/10/15/indigenous-australians-call-for-week-of-silence-after-referendum-failure",
+        "type": "news",
+        "topic": "Indigenous Rights",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a015",
+        "url": "https://www.aljazeera.com/sports/2023/10/15/new-zealand-beat-ireland-in-epic-rugby-world-cup-quarter-final",
+        "type": "sports",
+        "topic": "Rugby",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a016",
+        "url": "https://www.aljazeera.com/news/2023/10/15/russia-ukraine-war-list-of-key-events-day-599",
+        "type": "news",
+        "topic": "Russia-Ukraine war",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a017",
+        "url": "https://www.aljazeera.com/news/2023/10/15/india-to-bid-for-2036-olympics-as-ioc-censures-politicisation-of-sport",
+        "type": "news",
+        "topic": "Olympics",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a018",
+        "url": "https://www.aljazeera.com/news/2023/10/15/afghanistans-herat-province-hit-by-third-earthquake-in-nearly-a-week",
+        "type": "news",
+        "topic": "Earthquakes",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a019",
+        "url": "https://www.aljazeera.com/news/2023/10/15/israel-hezbollah-exchange-fire-amid-fears-of-regional-escalation",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01a",
+        "url": "https://www.aljazeera.com/opinions/2023/10/15/israel-and-the-weaponisation-of-empathy",
+        "type": "opinions",
+        "topic": "None",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01b",
+        "url": "https://www.aljazeera.com/news/2023/10/15/which-countries-have-criticised-israeli-attacks-on-gaza",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01c",
+        "url": "https://www.aljazeera.com/gallery/2023/10/15/palestinian-support-demonstrations-around-the-world",
+        "type": "gallery",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01d",
+        "url": "https://www.aljazeera.com/gallery/2023/10/15/photos-afghanistan-hit-by-another-earthquake-in-herat-region",
+        "type": "gallery",
+        "topic": "Earthquakes",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01e",
+        "url": "https://www.aljazeera.com/sports/2023/10/15/afghanistan-beat-england-by-70-runs-in-shock-icc-cricket-world-cup-win",
+        "type": "sports",
+        "topic": "ICC Cricket World Cup",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a01f",
+        "url": "https://www.aljazeera.com/news/2023/10/15/qatars-sheikh-jassim-withdraws-bid-to-buy-manchester-united-from-glazers",
+        "type": "news",
+        "topic": "Football",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a020",
+        "url": "https://www.aljazeera.com/features/2023/10/15/from-friend-to-enemy-palestinians-in-israel-suspended-from-jobs-over-war",
+        "type": "features",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a021",
+        "url": "https://www.aljazeera.com/news/2023/10/15/poland-votes-in-key-election-amid-rising-nationalism-ukraine-war",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a022",
+        "url": "https://www.aljazeera.com/news/2023/10/15/iran-warns-israel-of-regional-escalation-if-gaza-ground-offensive-launched",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a023",
+        "url": "https://www.aljazeera.com/news/2023/10/15/palestinians-in-gaza-can-go-to-tent-cities-former-israeli-minister",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a024",
+        "url": "https://www.aljazeera.com/news/2023/10/15/palestinian-american-boy-stabbed-to-death-in-gaza-war-related-killing-in-us",
+        "type": "news",
+        "topic": "Israel-Palestine conflict",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a025",
+        "url": "https://www.aljazeera.com/program/inside-story/2023/10/15/what-are-the-military-risks-of-an-israeli-ground-offensive-in-gaza",
+        "type": "program",
+        "topic": "Inside Story",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a026",
+        "url": "https://www.aljazeera.com/news/2023/10/15/ecuador-votes-to-elect-new-president",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "_id": "65313265657f048d67e3a027",
+        "url": "https://www.aljazeera.com/news/liveblog/2023/10/15/israel-hamas-war-live-gaza-hospitals-fuel-to-last-24-more-hours-un-says",
+        "type": "news",
+        "topic": "Elections",
+        "date": "2023-10-15 00:00:00"
     }
 ]

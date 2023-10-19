@@ -197,9 +197,9 @@ def index():
     save_xml_mongo(75);
     data = list(collection.find())
     return render_template("main.html",data=data,news_number=nbOfNews(75),top_type=top_type(),top_topic=top_topic())
-@app.route('/vendor/<path:filename>')
-def vendor_css(filename):
-    return send_from_directory('templates/vendor', filename)
+@app.route('/a')
+def a():
+    return topic_array()
 @app.route('/data')
 def data():
     with open('output.json') as file:

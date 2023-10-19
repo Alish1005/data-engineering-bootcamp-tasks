@@ -121,13 +121,13 @@ def nbOfNews(days:int):
 
 def topic_array():
     last_75_documents = collection.distinct("date")[-1]- datetime.timedelta(days=75)
-    topics=collection.distinct("topic",filter={"date":{"gte":last_75_documents}})
+    topics=collection.distinct("topic",filter={"date":{"$gte":last_75_documents}})
     print(topics)
     print(len(topics))
     array=[[],[]]
     for i in topics:
         array[0].append(i);
-        count=collection.count_documents({"topic":i,"date":{"gte":last_75_documents}})
+        count=collection.count_documents({"topic":i,"date":{"$gte":last_75_documents}})
         array[1].append(count)
     return array
 def type_array():
@@ -156,11 +156,13 @@ def index():
     return render_template("main.html",top_topic=top_topic(),top_type=top_type(),nb=nbOfNews(75),arr_topic=topic_array(),arr_type=type_array(),arr_date=date_array())
 @app.route('/a')
 def a():
-    with open("a.json", "w") as json_file:
-        json.dump(list(collection.find()), json_file, default=str, indent=4)
-    with open('a.json') as file:
-        file_data = json.load(file)
-    return file_data
+    result=[]
+    array=topic_array()
+    for index,i in enumerate(array[0]):
+        if(array[1][index]>=29):
+            result.append({"tag":i,"weight":array[1][index]})
+    print(result)
+    return result
 @app.route('/data')
 def data():
     with open('output.json') as file:
