@@ -1,6 +1,6 @@
 # ⭐Al-Jazzera News Dashboard using Flask⭐
 
-<span style="color: red; font-weight: bold;">*⚠ notice that the final project is in the task10_project*</span>
+<span style="color: red; font-weight: bold;">*⚠ notice that the final project is in the task10_project*</span> 
 ## Intro🌟
 Hello I trust this message reaches you in excellent health. I've incorporated this README document to provide you with an overview of what you can anticipate within the project. I appreciate your valuable time, and I eagerly anticipate the opportunity to collaborate with you.
 ## What's in there? ❓
